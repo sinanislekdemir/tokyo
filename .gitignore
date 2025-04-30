@@ -1,0 +1,56 @@
+.python-version
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.uv/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+.cache
+pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VSCode & other IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# MyPy, Pyright, Ruff, etc.
+.mypy_cache/
+.pyright/
+ruff_cache/
+
+# PyInstaller
+*.spec
+
+# Local env settings
+.env
+.env.*
+
+# macOS, Linux, Windows
+.DS_Store
+Thumbs.db
